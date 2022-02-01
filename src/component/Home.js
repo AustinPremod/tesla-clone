@@ -14,12 +14,6 @@ function Home() {
                     />  
       })}
       
-
-
-
-      {/* <Section />
-      <Section />
-      <Section /> */}
   </Container>)
 }
 
